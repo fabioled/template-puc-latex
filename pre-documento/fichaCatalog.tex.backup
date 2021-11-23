@@ -1,0 +1,41 @@
+\begin{newpage}
+	\thispagestyle{empty}	
+
+	
+	  % ********** Ficha Catalográfica
+  \newpage \normalsize
+  \thispagestyle{empty}
+  $ \   $
+  \vspace{8cm}
+  \begin{footnotesize}
+  \begin{center}
+  \begin{tabular}{|cl|} \hline
+   \hspace{1cm} & \\
+        & Cordeiro, Fábio Leandro Rodrigues\\
+     M491c & \hspace{0.6cm} Estudo comparaivo entre plataforma monoprocessada e Cluster Computer: \\ 
+        &  métricas de desempennho / Fábio Leandro Rodrigues Cordeiro Belo Horizonte, 2013. \\
+        &  \\
+        & \hspace{0.6cm} Orientador: Carlos Augusto de Paiva Martinhs\\
+        & \hspace{0.6cm} Dissertação (mestrado) - Pontifícia Universidade Católica de Minas Gerais,\\
+        & Matemática, Estatística e  Computação Científica. \\
+        & \\
+        & \hspace{0.6cm} 1. Códigos de controle de erros (Teoria da
+  informação). 2. Semigrupos. 3. \\
+        & Geometria algébrica. 4. Teoria da codificação. I. Brumatti, Paulo
+  Roberto. II. \\
+        & Torres Orihuela, Fernando Eduardo. III. Universidade Estadual de
+  Campinas. \\
+        & Instituto de Matemática, Estatística e Computação Científica. IV.
+  Título \\
+        & \\ \hline
+  \end{tabular}
+  \end{center}
+  \end{footnotesize}%\begin{small}
+  \hspace*{-1cm}
+  %\end{small}
+	
+	
+	
+	
+
+\end{newpage}

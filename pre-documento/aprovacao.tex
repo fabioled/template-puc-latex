@@ -1,0 +1,59 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Folha de Aprovação
+%% Autor: Maycon Belfort Silva
+%% Versão: 1.0
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%  \begin{folhadeaprovacao}
+% \newcommand{\folhaaprovacao}{
+\makeatletter	% para usar @
+
+	\thispagestyle{empty}
+	
+	\begin{center}
+		\por % Autor
+	\end{center}
+	
+	\vfill % Espacamento vertical
+	
+	\begin{center}
+		\textbf{\monog}\\ % Titulo
+		\textbf{\subtitulo} % Subtitulo
+	\end{center}
+	
+	\vfill % Espacamento vertical
+	
+	\begin{flushright}
+		\begin{minipage}{9cm}
+			{Dissertação apresentada ao \curso \hspace{0.1cm} da \univ, \hspace{0.1cm} como \hspace{0.1cm} requisito parcial \hspace{0.1cm} para \hspace{0.1cm} obtenção \hspace{0.1cm} do \hspace{0.1cm} Título \hspace{0.1cm} de \hspace{0.1cm} \grau em \curso.} % Nota de apresentacao
+		\end{minipage}
+	\end{flushright}
+	
+	\vfill % Espacamento vertical
+	
+	\begin{center}
+		\rule{8cm}{0.01cm}\\ % Linha horizontal
+		\profOrientador (Orientador) - PUC Minas % Orientador
+	\end{center}
+	
+	\vfill % Espacamento vertical
+	
+	\begin{center}
+		\rule{8cm}{0.01cm}\\  % Linha horizontal
+		\profA - Sigla da Instituição % 1o avaliador
+	\end{center}
+	
+	\vfill % Espacamento vertical
+	
+	\begin{center}
+		\rule{8cm}{0.01cm}\\ % Linha horizontal
+		\profB - Sigla da Instituição % 2o avaliador
+	\end{center}
+	
+	\vfill % Espacamento vertical
+	
+	\begin{center}
+		\cidade, \dataCompleta % Cidade e data completa
+	\end{center}
+\makeatletter	% para usar @	
+	\newpage % Quebra de pagina

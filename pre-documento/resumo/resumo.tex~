@@ -1,0 +1,23 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Resumo
+%% Autor: Maycon Belfort Silva
+%% Version: 1.0
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{resumo}
+
+Este trabalho têm por objetivo fazer um estudo comparativo entre dois ambientes de rede, monoprocessado e um com carga dividida, 
+podendo assim verificar o comportamento destes modelos em uma situação real que é o processo de restauração de imagens do laboratório 
+da PUC Minas por meio de uma ferramenta de clonagem de discos rígidos. Primeiro foram foram realizados pesquisas para definição das 
+ferramentas e parâmetros de testes de carga dos ambientes. 
+O segundo passo foi a preparação dos ambientes, o monoprocessado com um servidor dedicado e o aglomerado de computadores com  quatro estações 
+sendo essas com a mesma configuração das estações clientes.
+A terceira fase deste trabalho teve como tarefa a submissão dos dois ambientes a testes nas mesmas condições, gerando assim dados analíticos 
+dos quais foram utilizadas para a última fase de análise e conclusão destes dados. Na última etapa, foram indentificadas restrições 
+quanto a instalação da solução distribuída em um ambiente com rede comum, entretanto foi observado que este ambiente comportou se de maneira 
+a proporcionar balanceamento de carga mesmo em situação de grande quantidade de tráfego, o que não ocorreu no ambiente monoprocessado.
+
+
+\palavraChave{Cluster Trivial Database, Sistemas de arquivos distribuídos, Linux}
+\end{resumo}
+

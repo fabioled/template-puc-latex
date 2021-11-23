@@ -1,0 +1,18 @@
+#!/bin/bash
+
+rm *.log
+rm *.aux
+rm *.backup
+rm *~
+rm *.bbl
+rm *.blg
+rm *.l*
+rm *.toc
+
+#pdflatex principal
+#bibtex principal
+#pdflatex principal
+#evince principal.pdf
+
+
+
